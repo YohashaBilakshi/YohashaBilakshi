@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning react, node js
 - 📫 How to reach me bilakshiedirisinghe@gmail.com , 
 
+<img align="right" alt="coding" width = "400" src ="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
